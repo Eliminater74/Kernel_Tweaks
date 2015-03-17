@@ -10,6 +10,6 @@ cpufreq_asswax.c        cpufreq_hyper.c          cpufreq_lionheart.c     cpufreq
 cpufreq_badass.c        cpufreq_intelliactive.c  cpufreq_lulzactive.c    cpufreq_performance.c   cpufreq_smartass2.c    cpufreq_wrexy.c
 cpufreq_brazilianwax.c  cpufreq_intellidemand.c  cpufreq_lulzactivew.c   cpufreq_powersave.c     cpufreq_smartass.c     cpufreq_zenx.c
 cpufreq.c               cpufreq_interactive.c    cpufreq_minmax.c        cpufreq_preservative.c  cpufreq_smartassH3.c            
-********************** IO Schedulers *******************************************************************************************
+********************** IO Schedulers ******************************************************************************************
 bfq-iosched.c  deadline-iosched.c  fiops-iosched.c  Kconfig.iosched~  row-iosched.c  sioplus-iosched.c  vr-iosched.c
 cfq-iosched.c  fifo-iosched.c      Kconfig.iosched  noop-iosched.c    sio-iosched.c  test-iosched.c     zen-iosched.c
